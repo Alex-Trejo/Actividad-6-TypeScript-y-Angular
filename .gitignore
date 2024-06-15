@@ -1,0 +1,15 @@
+# Carpeta node_modules generada por npm/yarn
+node_modules/
+
+# Archivos de compilación de TypeScript
+*.js
+*.js.map
+
+# Archivos de configuración local (por ejemplo, para Visual Studio Code)
+.vscode/
+
+# Archivo de configuración de TypeScript
+tsconfig.json
+
+# Archivo de bloqueo de yarn
+yarn.lock
